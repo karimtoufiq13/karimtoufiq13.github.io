@@ -2,7 +2,7 @@
 
 Hello, I'm Karim Toufiq. This is my professional highlight page.
 
-![IMG_2101](https://github.com/karimtoufiq13/karimtoufiq13.github.io/assets/100460390/ef2ee495-b6ce-4cd4-a37c-ba0032393390)
+https://github.com/karimtoufiq13/karimtoufiq13.github.io/assets/100460390/ef2ee495-b6ce-4cd4-a37c-ba0032393390
 
 ## About Me
 
