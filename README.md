@@ -6,9 +6,17 @@ https://github.com/karimtoufiq13/karimtoufiq13.github.io/assets/100460390/ef2ee4
 
 ## About Me
 
-I am a Data Scientist based in New York. I specialize in programming. 
+Karim Toufiq is dedicated to leveraging data to solve business challenges and drive strategic decision-making. Passionate about translating complex data into actionable insights that optimize operations, improve customer experience, and maximize revenue.
+
+## Skills
+
+- **Programming Languages**: Python, R, MySQL
+- **Technologies**: Raspberry Pi, OpenCV, TensorFlow, Git
+- **Web Development**: HTML, CSS, React, Node.js
+- **Data Visualization**: Matplotlib, PowerBI, D3.js
 
 ## Contact
 
-- GitHub: [Your GitHub Profile](https://github.com/karimtoufiq13)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/karimtoufiq13/)
+- GitHub: (https://github.com/karimtoufiq13)
+- Email: (mailto:karimtoufiq13@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/karimtoufiq13/)
